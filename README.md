@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananya
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyatomar25)](https://github.com/anuraghazra/github-readme-stats)
+- [![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyatomar25)](https://github.com/anuraghazra/github-readme-stats)
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently improving DSA skills
 - 💞️ I’m looking to collaborate on GitHub
