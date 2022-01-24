@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ananya
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
+<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>\
 <br />
 <br />
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
