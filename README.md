@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ananya
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&show_icons=true&theme=radical)](https://github.com/Ananyatomar25/github-readme-stats"/>
+<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
 
 
 
