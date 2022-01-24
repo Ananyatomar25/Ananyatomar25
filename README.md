@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ananya
-- [![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyatomar25)](https://github.com/anuraghazra/github-readme-stats)
-- ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true)
 - ![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25)](https://github.com/Ananyatomar25/github-readme-stats)
 - 👀 I’m interested in Web Development and Coding
 - 🌱 I’m currently improving DSA skills
 - 💞️ I’m looking to collaborate on GitHub
