@@ -1,6 +1,11 @@
-# 👋 Hi, I’m Ananya
+<h1 align="center">Hi there 👋 I am  Ananya Tomar  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Ananyatomar25/count.svg" />
+</p>
+
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>__
+<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
 
 
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
