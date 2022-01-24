@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 I am  Ananya Tomar  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
-## About Me:
+
+## **About Me:**
 MERN Stack Web-Developer || Programmer || Junior@ SGSITS, Indore
 
 ## **Github Stats:**
@@ -21,6 +22,9 @@ MERN Stack Web-Developer || Programmer || Junior@ SGSITS, Indore
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Ananyatomar25&line_height=40&theme=dark">
 </p>
+
+
+---
 
 <p align="center"> 
   Visitors count<br>
