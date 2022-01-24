@@ -5,8 +5,8 @@ MERN Stack Web-Developer || Programmer || Junior@ SGSITS, Indore
 
 ## **Github Stats:**
 <p align ="center">
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
 
 </p>
 
