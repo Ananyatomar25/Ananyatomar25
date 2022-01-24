@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I am  Ananya Tomar  <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
-## **About Me:**
+## About Me:
 MERN Stack Web-Developer || Programmer || Junior@ SGSITS, Indore
 
 ## **Github Stats:**
