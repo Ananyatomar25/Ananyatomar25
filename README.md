@@ -3,10 +3,10 @@
 ## **About Me:**
 MERN Stack Web-Developer || Programmer || Junior@ SGSITS, Indore
 
-## **Github Stats:**
+<!-- ## **Github Stats:**
 <p align ="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Ananyatomar25&show_icons=true&theme=radical"/>
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/>
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyatomar25&layout=compact&show_icons=true&theme=radical"/> -->
 
 </p>
 
